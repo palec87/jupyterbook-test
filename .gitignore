@@ -174,4 +174,4 @@ cython_debug/
 .pypirc
 
 **/_build
-myst.yml
+myst_dp.yml
