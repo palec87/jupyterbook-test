@@ -5,7 +5,11 @@ matplotlib
 ipyleaflet
 ipywidgets
 ipykernel
-jupyterlab-myst
-jupyterlab_widgets
+# jupyterlab-myst
+# jupyterlab_widgets
 panel
 seaborn
+jupyter-server
+jupyterlab>=4.0.0
+jupyterlab_myst>=2.0.0
+ipywidgets>=8.*
