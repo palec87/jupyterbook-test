@@ -12,4 +12,4 @@ seaborn
 jupyter-server
 jupyterlab>=4.0.0
 jupyterlab_myst>=2.0.0
-ipywidgets>=8.*
+ipywidgets>=8.0.0
