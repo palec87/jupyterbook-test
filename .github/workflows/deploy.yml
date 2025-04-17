@@ -61,7 +61,7 @@ jobs:
     - name: Build HTML Assets
       run: |
         cd book
-        myst build --html
+        myst build --execute --html
 
     # Upload the book's HTML as an artifact
     - name: Upload artifact
