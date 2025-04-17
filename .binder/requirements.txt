@@ -2,7 +2,7 @@ numpy
 pandas
 plotly
 matplotlib
-ipyleaflet
+ipyleaflet>=0.19.2
 ipywidgets
 ipykernel
 # jupyterlab-myst
@@ -13,3 +13,15 @@ jupyter-server
 jupyterlab>=4.0.0
 jupyterlab_myst>=2.0.0
 ipywidgets>=8.0.0
+bqplot
+rasterio
+tqdm
+requests
+pillow
+matplotlib
+flask
+branca
+geopandas
+netcdf4
+xarray
+ipyflex
