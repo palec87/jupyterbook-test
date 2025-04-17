@@ -1,0 +1,10 @@
+numpy
+pandas
+plotly
+matplotlib
+ipyleaflet
+ipywidgets
+ipykernel
+jupyterlab-myst
+panel
+seaborn
