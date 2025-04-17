@@ -1,7 +1,7 @@
 # See book at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  id: book-template
+  id: book-template-test
   title: My FAIR-EASE Book
   description: Blabla to be completed
   github: https://github.com/palec87/jupyterbook-test
