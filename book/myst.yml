@@ -4,7 +4,7 @@ project:
   id: book-template
   title: My FAIR-EASE Book
   description: Blabla to be completed
-  github: https://github.com/fair-ease/doc-jupyterbook-template
+  github: https://github.com/palec87/jupyterbook-test
   jupyter:
     lite: true
     binder: true

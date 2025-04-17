@@ -6,7 +6,7 @@ project:
   # description:
   # keywords: []
   # authors: []
-  github: https://github.com/palec87/doc-jupyterbook-template
+  github: https://github.com/palec87/jupyterbook-test
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
   template: book-theme
